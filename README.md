@@ -1,3 +1,4 @@
 # best-repo-ever
-My First and Only.
-Second and better.
+<<<<<<< HEAD
+This is testing branch.
+
